@@ -131,6 +131,10 @@ Este projeto inclui testes automatizados utilizando **JUnit**. Para executar os 
 ```bash
 mvn test
 ```
+## Link da Collection Postman
+```
+https://orange-escape-442392.postman.co/workspace/New-Team-Workspace~48c652ad-db8e-45b6-8aea-021ffa5b77ff/folder/20815894-a3fc0c6e-4d44-447f-a10f-fc15e60c6e12?action=share&creator=20815894&ctx=documentation
+```
 ## Documentação da API
 
 A API do **Sistema de Gerenciamento de Tarefas** está documentada utilizando **Swagger**. Esta documentação fornece uma visão interativa dos endpoints disponíveis e permite que você teste as funcionalidades da API diretamente através da interface do Swagger UI.
